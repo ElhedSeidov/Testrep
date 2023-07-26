@@ -1,0 +1,2 @@
+1.git init only once
+2.git add. each time
